@@ -1,0 +1,19 @@
+{
+  "name"        : "quadtree",
+  "version"     : "1.0.0",
+  "main"        : "./lib/quadtree.js",
+  "description" : "Quadtree implementation by Stefan Wehrmeier, creator of Mapnificent",
+  "url"         : "http://github.com/01Track1mp3/Quadtree",
+  "keywords"    : ["map", "tree", "quadtree", "mapnificent"],
+  "licenses"    : [{
+    "type" : "GNU"
+  }],
+  "repository" : {
+    "type"  : "git",
+    "url"   : "http://github.com/01Track1mp3/Quadtree"
+  },
+  "contributors" : {
+    "Stefan Wehrmeier <stefanw>"
+  },
+  "private" : true
+}
